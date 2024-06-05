@@ -1,0 +1,13 @@
+-d C:\Github\TangNano-9K-example\led\impl\gwsynthesis\9K_LED_project.vg
+-p GW1NR-9C-QFN88P-6
+-pn GW1NR-LV9QN88PC6/I5
+-cst C:\Github\TangNano-9K-example\led\src\9K_LED_project.cst
+-cfg C:\Github\TangNano-9K-example\led\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-correct_hold 1
+-route_maxfan 23
+-global_freq 50.000
